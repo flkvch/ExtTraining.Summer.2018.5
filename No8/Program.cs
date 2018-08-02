@@ -51,9 +51,6 @@ namespace No8
             PrinterManager.Log("Printed on Canon");
         }
 
-        private static void CreatePrinter()
-        {
-            PrinterManager.Add(new Printer());
-        }
+
     }
 }
